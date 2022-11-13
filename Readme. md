@@ -1,1 +1,28 @@
-This documents involves the projest for prework study guide. 
+# Prowork Study Guide Readme
+
+## Description
+
+This project enables the audience of this website to learn about knowledge of basic HTML, GIT, CSS, and JavaScript. Also, this website will update along the way I learn .
+
+## Installation
+
+N/A
+
+## Usage
+
+To update this website, you can simply add list items in index.html. 
+For example, in each topic section, there is a list <li></li>, you can add the notes between them. 
+
+## Credits
+
+N/A
+
+## License
+
+N/A
+
+## Features
+
+- Describe main functions of GIT, HTML, CSS and JavaScript
+- Help you decide which subject to learn first 
+
